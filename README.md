@@ -183,9 +183,9 @@ If you build your project with a cloud provider, the best option is to provide t
 
 For best results, deploying to Vercel is recommended. As an alternative, you can also deploy to Netlify.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fstyxlab%2Fnext-cms-ghost&project-name=next-cms-ghost&repository-name=next-cms-ghost)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fhighunite%2Fghost-next-website&project-name=hu-ghost-website&repository-name=ghost-next-website)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/styxlab/next-cms-ghost&utm_source=github)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/highunite/ghost-next-website&utm_source=github)
 
 &nbsp;
 
